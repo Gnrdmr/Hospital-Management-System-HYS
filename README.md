@@ -90,7 +90,7 @@ SQL Server Management Studio →
 2. HYS.bak dosyasını seç
 3. Restore işlemini başlat
 
-### 2️⃣ SQL Kodlarını Manuel Oluşturmak
+SQL Kodlarını Manuel Oluşturmak
 `HYS_Proje.sql` dosyasını SSMS üzerinde çalıştırabilirsiniz.
 
 ---
